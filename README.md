@@ -1,7 +1,7 @@
 <!-- ## Hi there 👋 -->
 
 <h1 align="center">Hi 👋, I'm Samuel Odhiambo</h1>
-<h3 align="center">Graduate from Moringa School, Fullstack Developer🌟.</h3>
+<h3 align="center">A software Engineering graduate from Moringa School, Android and FullStack🌟.</h3>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=samuelodhiambo&label=Profile%20views&color=0e75b6&style=flat"
     alt="samuelodhiambo" /> 
