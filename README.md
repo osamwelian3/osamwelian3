@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Samuel Odhiambo</h1>
 <h3 align="center">A software Engineering graduate from Moringa School, Android and FullStack🌟.</h3>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=samuelodhiambo&label=Profile%20views&color=0e75b6&style=flat"
-    alt="samuelodhiambo" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=osamwelian3&label=Profile%20views&color=0e75b6&style=flat"
+    alt="osamwelian3" /> 
   </p>
   
-  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="samuelodhiambo" /></p>
+  <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="osamwelian3" /></p>
 <!-- ABOUT YOU -->
-<!-- **samuelodhiambo/samuelodhiambo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **osamwelian3/osamwelian3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Java Android.
@@ -27,7 +27,7 @@
 <hr>      
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/samuelodhiambo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuelodhiambo/" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/osamwelian3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/osamwelian3/" height="30" width="40" /></a>
 </p>
 
 <!-- LANGUAGES AND TOOLS -->
@@ -70,8 +70,8 @@
 <p>
     <a align="left">
       <p><img align="left" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelodhiambo&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="samuelodhiambo" /></p></a>
-    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=samuelodhiambo&show_icons=true&theme=dark&locale=en" alt="samuelodhiambo" /></p></a>  
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=osamwelian3&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="osamwelian3" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=osamwelian3&show_icons=true&theme=dark&locale=en" alt="samuelodhiambo" /></p></a>  
   </p>
 </p>
 </div>
@@ -89,6 +89,6 @@
 <br>
 
 -----
-Credits: [Samuel Odhiambo](https://github.com/samuelodhiambo)
+Credits: [Samuel Odhiambo](https://github.com/osamwelian3)
 
-Last Edited on: 25/05/2022
+Last Edited on: 15/07/2022
